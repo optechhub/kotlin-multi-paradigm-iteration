@@ -9,6 +9,8 @@
 > [교보문고](https://product.kyobobook.co.kr/detail/S000216318962) |
 [yes24](https://www.yes24.com/product/goods/145367977)
 | [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=362548794)
+>
+> [공식 GitHub](https://github.com/marpple/multi-paradigm-programming) 
 
 ### 『코틀린 멀티패러다임 이터레이션』 목차
 
