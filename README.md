@@ -12,7 +12,7 @@
 >
 > [공식 GitHub](https://github.com/marpple/multi-paradigm-programming) 
 
-### 『코틀린 멀티패러다임 이터레이션』 목차
+## 『코틀린 멀티패러다임 이터레이션』 목차
 
 - [지은이의 글](md/0.1-지은이의-글.md)
 
