@@ -1,0 +1,13 @@
+package chapter1.section1
+
+fun main() {
+    val list = listOf(1, 2, 3, 4)
+    val iterator = list.iterator()
+    println(iterator.next()) // 1
+    println(iterator.next()) // 2
+    for (n in iterator) {
+        println(n)
+    }
+    // 3
+    // 4
+}
