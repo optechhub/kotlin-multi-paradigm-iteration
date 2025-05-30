@@ -1,16 +1,6 @@
 # 코틀린 멀티패러다임 이터레이션
 
-### 본서 『멀티패러다임 프로그래밍』 소개
-
-<a href="https://product.kyobobook.co.kr/detail/S000216318962"><img alt="멀티패러다임 프로그래밍" src="../img/book.jpg" width="140px"></a>
-
-> [교보문고](https://product.kyobobook.co.kr/detail/S000216318962) |
-[yes24](https://www.yes24.com/product/goods/145367977)
-| [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=362548794)
-> 
-> [공식 GitHub](https://github.com/marpple/multi-paradigm-programming)
-
-## 『코틀린 멀티패러다임 이터레이션』 목차
+## 바로 읽기 (무료 공개)
 
 - [지은이의 글](0.1-지은이의-글.md)
 
@@ -51,3 +41,13 @@
       2. 인덱스가 값으로 필요할 때 - generateSequence, withIndex, mapIndex
       3. 콜라츠 추측 - 1이 될 때까지 세기
       4. break를 대신하는 take, takeWhile, takeUntilInclusive
+
+## 본서 『멀티패러다임 프로그래밍』 소개
+
+<a href="https://product.kyobobook.co.kr/detail/S000216318962"><img alt="멀티패러다임 프로그래밍" src="../img/book.jpg" width="140px"></a>
+
+> [교보문고](https://product.kyobobook.co.kr/detail/S000216318962) |
+[yes24](https://www.yes24.com/product/goods/145367977)
+| [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=362548794)
+>
+> [공식 GitHub](https://github.com/marpple/multi-paradigm-programming)
